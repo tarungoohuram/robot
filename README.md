@@ -3,7 +3,7 @@
 ## Installation
 
 cd catkin_ws/src
-git clone https://github.com/tg863/robot
+git clone https://github.com/tarungoohuram/robot
 catkin build
 cd ..
 source devel/setup.bash
